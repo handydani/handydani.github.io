@@ -17,6 +17,7 @@ body{
 }
 
 a {
+  font-size: 1em;
   text-decoration: none;
   color: #999;
 }
