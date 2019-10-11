@@ -9,7 +9,7 @@
 * {
   font-family: 'Roboto', monospace;
   overflow: hidden;
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to bottom right, #eb4034, #9c716e);
 }
 
 body{
